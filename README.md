@@ -2,8 +2,6 @@
 
 An interactive 3D globe visualization showing the global distribution of 4,532 Valorant players across 104 countries.
 
-> **Note:** Brazil data (219 players) was manually added as Brazilian players were not captured in the original Liquipedia scrape. All other data is from Liquipedia as of Feb 2026.
-
 ## Features
 
 - **Interactive 3D Globe**: Built with Three.js for smooth WebGL rendering
