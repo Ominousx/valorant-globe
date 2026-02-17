@@ -5,7 +5,7 @@ An interactive 3D globe visualization showing the global distribution of officia
 ## Features
 
 - **Interactive 3D Globe**: Built with Three.js for smooth WebGL rendering
-- **Color-coded Countries**: Darker/warmer colors indicate more players
+- **Color-coded Countries**: Darker colors indicate more players
 - **Top 10 Rankings**: Live leaderboard of countries with most players
   
 ## Tech Stack
